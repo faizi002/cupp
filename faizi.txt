@@ -1,0 +1,11 @@
+from string import *
+from itertools import product
+
+value = acii_letters + digits + punctuation value
+
+for 1 in rang(1,5):
+for j in product (value repeat i ):
+word = "" .join(j)
+password p = open (""faizi.txt ","a")
+p.write(word)
+p.write("/n")
